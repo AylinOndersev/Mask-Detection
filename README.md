@@ -2,7 +2,6 @@
 
 Face Mask Detection using Tensorflow/Keras OpenCV Transfer Learning 
 
-
 # Up School
 
 UP School is an ed-tech startup that boosts up women to become role models in technology. By helping women gain technical and collaborative success skills. This is a 4 months ed-tech program which provides you the best platform to improve soft skills and hard skills by involving students to variety projects . In this project term ,  I want to thank my mentors and Up School organization team for supporting me.
@@ -11,7 +10,10 @@ UP School is an ed-tech startup that boosts up women to become role models in te
 
 This is my capstone project happy coding ! 🥳
 
-Face Mask Detection system based on computer vision concept with OpenCV, Keras/TensorFlow.
+Face Mask Detection system based on computer vision concept with OpenCV, Keras/TensorFlow,MobileNetV2,VGG16.
+ 
+[Useful Blog for pre-trained models](https://www.analyticsvidhya.com/blog/2020/08/top-4-pre-trained-models-for-image-classification-with-python-code/ "Pre-trained models for image classification")
+
 
 # 🧐 Motivation
 
@@ -34,12 +36,18 @@ When I created dataset, I took photos of my face and our family's face. Thus, I 
 This dataset consists of 1463 images belonging to three classes:
 
 The number of images with facemask labelled 'yes': 473</br>
-The number of images with facemask labelled 'wrong': 471
+The number of images with facemask labelled 'wrong': 471</br>
 The number of images with facemask labelled 'no': 519
 
 ![Screenshot](readmeImages/readme1.png)
 
-# Features
+# Technology
+
+OpenCV</br>
+Keras</br>
+TensorFlow</br>
+VGG16</br>
+MobileNetV2</br>
 
 # 🎥 Project Demo
 
