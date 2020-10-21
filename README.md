@@ -27,9 +27,19 @@ Raise awareness of wearing mask in right way for world health.
 Learn computer vision practise and neural networks.
 
 # Dataset
+The dataset used can be downloaded here - Click to Download
+
+This dataset consists of 3835 images belonging to two classes:
+
+with_mask: 1916 images
+without_mask: 1919 images
 
 ![Screenshot](readmeImages/readme1.png)
+
+# Features
 
 # 🎥 Project Demo
 
 ![Screenshot](readmeImages/Demo1.gif)
+
+# 🥁 Results
