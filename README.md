@@ -29,10 +29,13 @@ Learn computer vision practise and neural networks.
 # Dataset
 The dataset used can be downloaded here - Click to Download
 
-This dataset consists of 3835 images belonging to two classes:
+When I created dataset, I took photos of my face and our family's face. Thus, I can't put them on Github. Also, I collected photos from websites and I put them on folder.
 
-with_mask: 1916 images
-without_mask: 1919 images
+This dataset consists of 1463 images belonging to three classes:
+
+The number of images with facemask labelled 'yes': 473
+The number of images with facemask labelled 'wrong': 471
+The number of images with facemask labelled 'no': 519
 
 ![Screenshot](readmeImages/readme1.png)
 
@@ -43,3 +46,5 @@ without_mask: 1919 images
 ![Screenshot](readmeImages/Demo1.gif)
 
 # 🥁 Results
+
+
