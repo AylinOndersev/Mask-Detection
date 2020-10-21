@@ -33,7 +33,7 @@ When I created dataset, I took photos of my face and our family's face. Thus, I 
 
 This dataset consists of 1463 images belonging to three classes:
 
-The number of images with facemask labelled 'yes': 473
+The number of images with facemask labelled 'yes': 473</br>
 The number of images with facemask labelled 'wrong': 471
 The number of images with facemask labelled 'no': 519
 
