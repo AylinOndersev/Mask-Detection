@@ -39,11 +39,14 @@ This dataset consists of 1463 images belonging to three classes:
 * The number of images with facemask labelled 'wrong': 471</br>
 * The number of images with facemask labelled 'no': 519
 
-![Screenshot](readmeImages/readme1.png)
+<img src="readmeImages/readme1.png" data-canonical-src="readmeImages/readme1.png" width="400" height="400" />
 
 # 💻 Microsoft Azure Custom Vision
 
 Before coding model with Tensorflow , I used Microsoft Azure Custom Vision service to construct image classification model. With exporting model as CoreML , I developed a iOS application. 
+<img src="readmeImages/CustomVision.png" data-canonical-src="readmeImages/CustomVision.png" width="600" height="500" />
+
+![Screenshot](readmeImages/Demo2.gif)
 
 
 # Technology
