@@ -41,6 +41,11 @@ This dataset consists of 1463 images belonging to three classes:
 
 ![Screenshot](readmeImages/readme1.png)
 
+# 💻 Microsoft Azure Custom Vision
+
+Before coding model with Tensorflow , I used Microsoft Azure Custom Vision service to construct image classification model. With exporting model as CoreML , I developed a iOS application. 
+
+
 # Technology
 
 * OpenCV</br>
@@ -55,4 +60,5 @@ This dataset consists of 1463 images belonging to three classes:
 
 # 🥁 Results
 
+[For More Detail, My Capstone Project Presentation](https://docs.google.com/presentation/d/1tU_PQ9-1gAfVR5sHVfaVD9DXfO6zhk6se_z1RrVEgT4/edit?usp=sharing)
 
