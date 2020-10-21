@@ -29,7 +29,7 @@ Raise awareness of wearing mask in right way for world health.
 Learn computer vision practise and neural networks.
 
 # Dataset
-The dataset used can be downloaded here - Click to Download
+The dataset used can be downloaded here - ![Datasets](dataset/train/)
 
 When I created dataset, I took photos of my face and our family's face. Thus, I can't put them on Github. Also, I collected photos from websites and I put them on folder.
 
