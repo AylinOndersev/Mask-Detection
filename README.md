@@ -65,3 +65,7 @@ Before coding model with Tensorflow , I used Microsoft Azure Custom Vision servi
 
 [For More Detail, My Capstone Project Presentation](https://docs.google.com/presentation/d/1tU_PQ9-1gAfVR5sHVfaVD9DXfO6zhk6se_z1RrVEgT4/edit?usp=sharing)
 
+<img src="readmeImages/s1.png" data-canonical-src="readmeImages/CustomVision.png" width="450" height="200" />
+<img src="readmeImages/s2.png" data-canonical-src="readmeImages/CustomVision.png" width="450" height="200" />
+
+
