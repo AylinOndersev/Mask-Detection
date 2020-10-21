@@ -35,19 +35,19 @@ When I created dataset, I took photos of my face and our family's face. Thus, I 
 
 This dataset consists of 1463 images belonging to three classes:
 
-The number of images with facemask labelled 'yes': 473</br>
-The number of images with facemask labelled 'wrong': 471</br>
-The number of images with facemask labelled 'no': 519
+* The number of images with facemask labelled 'yes': 473</br>
+* The number of images with facemask labelled 'wrong': 471</br>
+* The number of images with facemask labelled 'no': 519
 
 ![Screenshot](readmeImages/readme1.png)
 
 # Technology
 
-OpenCV</br>
-Keras</br>
-TensorFlow</br>
-VGG16</br>
-MobileNetV2</br>
+* OpenCV</br>
+* Keras</br>
+* TensorFlow</br>
+* VGG16</br>
+* MobileNetV2</br>
 
 # 🎥 Project Demo
 
